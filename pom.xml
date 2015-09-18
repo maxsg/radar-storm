@@ -28,7 +28,15 @@
       <version>0.8.2</version>
       <scope>compile</scope>
     </dependency>
+    
+    <dependency>
+     <groupId>org.twitter4j</groupId>
+     <artifactId>twitter4j-stream</artifactId>
+     <version>3.0.3</version>
+    </dependency>
+    
   </dependencies>
+  
 
   <repositories> 
       <repository> 
